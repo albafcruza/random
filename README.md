@@ -1,0 +1,1 @@
+Generador de números aleatorios versión Prueba.
